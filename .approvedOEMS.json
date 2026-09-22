@@ -1,0 +1,4 @@
+{
+  "domain_patterns": ["*.edu.it", "*.gov.it"],
+  "explicit_domains": []
+}
